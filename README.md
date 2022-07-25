@@ -1,5 +1,5 @@
 # Hiii ~
-### It's Alex Liu @alexliu2022 here.
+### It's Alex Liu @AlexLiu2022 here.
 #### A student from CQUPT.
 #### Ignorant about programming，
 #### trying to make progress now.
